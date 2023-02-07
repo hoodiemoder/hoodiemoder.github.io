@@ -1,1 +1,21 @@
-Git repository of hoodiemoder.github.io
+* hoodiemoder.github.io
+
+Repository used for deploying https://hoodiemoder.github.io
+
+* General ideas
+
+- A simple and minimalistic website for redirection
+  to other social media platforms related to hoodiemoder.
+
+- Fast loading, vectorized images,
+  optimal experience across all devices.
+  
+- General target:
+  - Desktop
+    - 1920x1080 px 
+    - 16:9 
+    - 60 fps
+  - Mobile
+    - 720-1080p
+    - 4-6 inches
+    - 60 fps
