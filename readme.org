@@ -2,6 +2,8 @@
 
 Repository used for deploying https://hoodiemoder.github.io
 
+
+
 * General ideas
 
 - A simple and minimalistic website for redirection
@@ -10,12 +12,40 @@ Repository used for deploying https://hoodiemoder.github.io
 - Fast loading, vectorized images,
   optimal experience across all devices.
   
-- General target:
-  - Desktop
-    - 1920x1080 px 
-    - 16:9 
-    - 60 fps
-  - Mobile
-    - 720-1080p
-    - 4-6 inches
-    - 30-60 fps
+* Social media accounts
+
+- Facebook:
+  https://www.facebook.com/hoodiemoder
+- GitHub:
+  https://github.com/hoodiemoder
+- Instagram:
+  https://www.instagram.com/hoodiemoder_/
+- Pinterest:
+  https://www.pinterest.com/hoodiemoder/
+- Reddit:
+  https://www.reddit.com/user/hoodiemoder_
+- Stack Overflow:
+  https://stackoverflow.com/users/21144007/hoodiemoder
+- TikTok:
+  https://www.tiktok.com/@hoodiemoder
+- Tumblr:
+  https://www.tumblr.com/hoodiemoder
+- Twitch:
+  https://www.twitch.tv/hoodiemoder
+- Twitter:
+  https://twitter.com/hoodiemoder
+- Vimeo:
+  https://vimeo.com/hoodiemoder
+- YouTube:
+  https://www.youtube.com/@hoodiemoder
+  
+* General target:
+
+- Desktop
+  - 1920x1080 px 
+  - 16:9 
+  - 60 fps
+- Mobile
+  - 720-1080p
+  - 4-6 inches
+  - 30-60 fps
