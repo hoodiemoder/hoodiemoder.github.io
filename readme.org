@@ -39,6 +39,14 @@ Repository used for deploying https://hoodiemoder.github.io
 - YouTube:
   https://www.youtube.com/@hoodiemoder
   
+  
+* Donation/Payment methods:
+
+- Monero (XMR):
+#+begin_src:
+896Sk1BYYSdYap7fNXMAdN6tkMWneiw8YEqRSjKJYnms1ujqipKZkCbGX1qBnuNCU4ZWZLQSd6UZ1A5DG4YdraMNAw3EvaU
+#+end_src:
+
 * General target:
 
 - Desktop
