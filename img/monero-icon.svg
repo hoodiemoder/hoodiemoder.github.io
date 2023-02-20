@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="/tmp/ink_ext_XXXXXX.svgTJGK01"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview978"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.25"
+     inkscape:cx="967.5"
+     inkscape:cy="967.5"
+     inkscape:window-width="1499"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1101" />
+  </sodipodi:namedview>
+  <defs
+     id="defs973">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,4500 H 4500 V 0 H 0 Z"
+         id="path16" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g12"
+       transform="matrix(0.23089877,0,0,-0.23089877,320.47781,614.66255)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)"
+         transform="matrix(0.49999999,0,0,0.50000711,-1404.247,428.31634)">
+        <g
+           id="g20"
+           transform="translate(2249.9688,4467.3906)">
+          <path
+             d="m 0,0 c -1224.422,0 -2217.391,-992.906 -2217.391,-2217.359 0,-244.75 39.672,-480.172 112.938,-700.391 h 663.156 v 1865.641 L 0,-2493.438 1441.313,-1052.109 V -2917.75 H 2104.5 c 73.281,220.219 112.953,455.641 112.953,700.391 C 2217.453,-992.906 1224.484,0 0,0"
+             style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path22" />
+        </g>
+        <g
+           id="g24"
+           transform="translate(1918.5469,1642.5938)">
+          <path
+             d="M 0,0 -629,629.031 V -544.891 h -240.469 -240.437 -453.438 c 389.25,-638.609 1092.282,-1065.093 1894.735,-1065.093 802.437,0 1505.531,426.484 1894.75,1065.093 h -453.469 -430.063 -50.812 V 629.031 L 662.75,0 331.391,-331.359 0.031,0 Z"
+             style="fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path26" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
