@@ -40,14 +40,14 @@ Repository used for deploying https://hoodiemoder.github.io
   https://www.youtube.com/@hoodiemoder
   
   
-* Donation/Payment methods:
+* Donations:
 
-- Monero (XMR):
+- Monero (XMR)
 #+begin_src:
 896Sk1BYYSdYap7fNXMAdN6tkMWneiw8YEqRSjKJYnms1ujqipKZkCbGX1qBnuNCU4ZWZLQSd6UZ1A5DG4YdraMNAw3EvaU
 #+end_src:
 
-* General target:
+* General target
 
 - Desktop
   - 1920x1080 px 
